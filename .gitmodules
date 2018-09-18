@@ -6,4 +6,4 @@
 	url = https://github.com/Nonnus/Bolts-iOS
 [submodule "Carthage/Checkouts/facebook-ios-sdk"]
 	path = Carthage/Checkouts/facebook-ios-sdk
-	url = https://github.com/Nonnus/facebook-sdk.git
+	url = https://github.com/uson1x/facebook-ios-sdk.git
